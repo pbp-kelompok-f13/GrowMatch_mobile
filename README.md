@@ -1,6 +1,6 @@
 # GrowMatch Mobile
 
-Aplikasi mobile GrowMatch, dibangun menggunakan Flutter untuk Proyek Akhir Semester PBP (CSGE602022) Gasal 2026/2027. Aplikasi ini merupakan versi mobile dari situs web [GrowMatch](https://muhammad-nararya51-growmatch.pws.cs.ui.ac.id/) yang dikembangkan pada Proyek Tengah Semester.
+Aplikasi mobile GrowMatch, dibangun menggunakan Flutter untuk Proyek Akhir Semester PBP Gasal 2026/2027. Aplikasi ini merupakan versi mobile dari situs web [GrowMatch](https://muhammad-nararya51-growmatch.pws.cs.ui.ac.id/) yang dikembangkan pada Proyek Tengah Semester.
 
 ## Deskripsi Aplikasi
 
